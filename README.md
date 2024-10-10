@@ -1,4 +1,4 @@
 # gitdemo
-this repo is to practice git.
-author - karitk kanojia
+This repo is to practice git.<br>
+Author - Karitk Kanojia
 
