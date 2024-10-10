@@ -1,0 +1,2 @@
+This is Random folder made to practice features of git and github
+Owner - Kartik Kanojia (Pvt. Ltd.)
