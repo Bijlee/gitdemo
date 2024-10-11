@@ -1,7 +1,4 @@
 print("Hello World")
-<<<<<<< HEAD
+#Output - Hello World
 print("I am Kartik kanojia")
-=======
-print("I am Kartik")
->>>>>>> feat1
-#i will add this comment
+#Output - I am Kartik Kanojia
